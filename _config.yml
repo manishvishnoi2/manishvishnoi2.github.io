@@ -2,7 +2,7 @@
 # Site settings
 #
 remote_theme: LeakyAbstractions/pretty-docs
-url: https://leakyabstractions.github.io
+url: https://manishvishnoi2.github.io
 baseurl: /pretty-docs
 title: &site_title Pretty Docs
 description: &site_description Free Bootstrap theme for your project documentation
